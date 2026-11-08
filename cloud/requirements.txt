@@ -1,0 +1,11 @@
+# Web 框架与服务器
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+
+# 异步网络请求（用于拉取订阅和 HTTP 测速）
+aiohttp>=3.8.0
+aiohttp-socks>=0.8.0
+
+# YAML 解析与生成（用于 Clash 配置）
+PyYAML>=6.0
